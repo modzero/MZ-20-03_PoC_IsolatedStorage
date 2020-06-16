@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsolatedStoragePoC", "IsolatedStoragePoC\IsolatedStoragePoC.csproj", "{4E2AC8B1-5A15-4F14-9F1E-0F5ADA95D631}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E2AC8B1-5A15-4F14-9F1E-0F5ADA95D631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E2AC8B1-5A15-4F14-9F1E-0F5ADA95D631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E2AC8B1-5A15-4F14-9F1E-0F5ADA95D631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E2AC8B1-5A15-4F14-9F1E-0F5ADA95D631}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD3F581E-9107-4C8A-B8BD-763D6F3F4B87}
+	EndGlobalSection
+EndGlobal
